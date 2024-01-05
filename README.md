@@ -20,7 +20,7 @@ admin으로 로그인을 해주고 나면은 잘 보인다.
 
 <img src='./images/127.0.0.1_8000_users_.png'>
 
-이제 CMD에서 cul을 사용해 보면
+이제 CMD에서 curl을 사용해 보면
 
 <img src='./images/curl-result.PNG'>
 
